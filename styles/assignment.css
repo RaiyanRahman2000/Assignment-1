@@ -110,4 +110,20 @@
 /* ?nav styles */
 nav{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 24px 160px ;
 }
+
+nav ul li{
+    list-style: none;
+}
+
+h3{
+  /* margin: 31px 31px 1218px 160px; */
+  /* margin-top: 31px;
+  margin-bottom: 31px;
+  margin-right: 1218px;
+  margin-left: 160px; */
+}
+
