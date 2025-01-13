@@ -207,7 +207,7 @@ button {
 }
 .img1{
   padding: 48px 32px 48px 48px;
-  border-radius: 24px;
+  
   
 }
 .new2{
@@ -216,4 +216,109 @@ button {
 .btn-4{
   background-color: #006A50;
   color: #FFFFFF;
+  padding: 13px 26px 13px 26px;
+  border-radius: 8px;
+}
+.news-content2{
+  display: flex;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(14, 14, 14, 0.15);
+  border-radius: 24px;
+  margin: 24px 160px 24px 160px;
+}
+
+.btn-5{
+  background-color: #006A50;
+  color: #FFFFFF;
+  padding: 13px 26px 13px 26px;
+  border-radius: 8px;
+}
+.new3{
+  padding: 56px 32px 56px 48px;
+}
+.img2{
+  padding: 48px 48px 48px 32px;
+}
+.donate-banner{
+  margin: 80px 160px 80px 160px;
+  /* align-items: center; */
+}
+
+.clk1{
+padding: 40px 40px 40px 40px;
+font-size: 40px;
+font-weight: 700;
+border-style: solid;
+  border-width: 1px;
+  border-color: rgba(14, 14, 14, 0.15);
+  color: rgba(14, 14, 14, 0.8);
+  background-color: #FFFFFF;
+  margin: 32px 24px 32px 10px;
+}
+.clk2{
+  padding: 40px 40px 40px 40px;
+  font-size: 40px;
+font-weight: 700;
+border-style: solid;
+  border-width: 1px;
+  border-color: rgba(14, 14, 14, 0.15);
+  color: rgba(14, 14, 14, 0.8);
+  background-color: #FFFFFF;
+  margin: 32px 24px 32px 24px;
+}
+
+.clk3{
+  padding: 40px 40px 40px 40px;
+  font-size: 40px;
+font-weight: 700;
+border-style: solid;
+  border-width: 1px;
+  border-color: rgba(14, 14, 14, 0.15);
+  color: rgba(14, 14, 14, 0.8);
+  background-color: #FFFFFF;
+  margin: 32px 24px 32px 24px;
+}
+.clk4 {
+  padding: 40px 40px 40px 40px;
+  font-size: 40px;
+font-weight: 700;
+border-style: solid;
+  border-width: 1px;
+  border-color: rgba(14, 14, 14, 0.15);
+  color: rgba(14, 14, 14, 0.8);
+  background-color: #FFFFFF;
+  margin: 32px 10px 32px 24px;
+}
+.othertk{
+  padding: 20px 422.5px 20px 422.5px;
+  background-color: #FFFFFF;
+  margin: 32px 100px 32px 100px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(14, 14, 14, 0.15);
+  color: rgba(14, 14, 14, 0.8);
+}
+.titlecenter{
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  color: #0E0E0E;
+}
+.titlecenter2{
+  text-align: center;
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+}
+.btn-6{
+  background-color: #006A50;
+  color: #FFFFFF;
+  padding: 17px 34px 17px 34px;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 32px 500px 0 500px;
+}
+.clk1:hover,.clk2:hover,.clk3:hover,.clk4:hover{
+  color: #006A50;
 }
