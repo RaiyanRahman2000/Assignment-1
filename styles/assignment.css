@@ -320,5 +320,33 @@ border-style: solid;
   margin: 32px 500px 0 500px;
 }
 .clk1:hover,.clk2:hover,.clk3:hover,.clk4:hover{
-  color: #006A50;
+  background-color: #C6E4D6;
+}
+.speech{
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(14, 14, 14, 0.8);
+  padding: 48px 24px 12px 24px;
+}
+.speaker{
+  font-size: 20px;
+  font-weight: 600;
+  color: rgba(14, 14, 14, 0.8);
+  padding: 12px 24px 4px 24px;
+}
+.position{
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(14, 14, 14, 0.6);
+  padding: 4px 24px 48px 24px;
+}
+.dr-yunus{
+  margin: 32px 160px 80px 160px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+  background-image: url(quote-bg.png);
+  background-repeat: no-repeat;
+  background-position: 2% 13%;
 }
